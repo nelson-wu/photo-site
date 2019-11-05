@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Nov 2019 20:42:40 -0800</pubDate>
-    <lastBuildDate>Mon, 04 Nov 2019 20:42:40 -0800</lastBuildDate>
+    <pubDate>Mon, 04 Nov 2019 22:02:02 -0800</pubDate>
+    <lastBuildDate>Mon, 04 Nov 2019 22:02:02 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -60,9 +60,9 @@
 &lt;div class=&quot;section-padding--double&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/afterdusk/k.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 25 Aug 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2019/08/25/after-dusk/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/25/after-dusk/</guid>
+        <pubDate>Mon, 04 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019/11/04/after-dusk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/04/after-dusk/</guid>
         
         
       </item>
